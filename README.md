@@ -30,5 +30,7 @@ Network Time Protocol (NTP): NTP facilitates the synchronization of clocks acros
 - Open Repo Project: Open your preferred code editor (e.g., Visual Studio Code) and navigate to your existing project directory.
 
 - Compile the code
+  
+<img src="https://github.com/Roey0204/ESP32-Wireless-Connection/blob/main/ESP-NOW%20pairing/img/Build%20and%20upload.png">
 
 
