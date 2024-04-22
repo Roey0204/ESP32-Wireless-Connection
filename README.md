@@ -1,7 +1,5 @@
 # ESP32-Wireless-Connection
 
-#### Summary:
-
 This repository showcases the capabilities of ESP-NOW by facilitating the pairing of two devices, designated as Master and Slave. Additionally, it integrates the Network Time Protocol (NTP) to accurately capture real-time data.
 
 ### ESP-NOW:
@@ -16,7 +14,7 @@ ESP-NOW, a proprietary communication protocol developed by Espressif Systems for
   
 - Efficient Data Transmission: With ESP-NOW, data transmission occurs with remarkable efficiency, characterized by minimal latency and maximal throughput. Such expeditious data transfer capabilities render ESP-NOW advantageous across diverse applications, spanning sensor networks, home automation setups, and remote control systems.
   
-- [For details can refer to link ](https://www.espressif.com/en/solutions/low-power-solutions/esp-now) 
+- [For details can refer to this link ](https://www.espressif.com/en/solutions/low-power-solutions/esp-now) 
 
 #### Network Time Protocol (NTP)
 Moreover, the repository integrates the Network Time Protocol (NTP), a fundamental aspect of modern networking:
