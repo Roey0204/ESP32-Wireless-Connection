@@ -24,6 +24,8 @@ Network Time Protocol (NTP): NTP facilitates the synchronization of clocks acros
 ### How to setup
 
 - Install PlatformIO: First, you need to install PlatformIO. You can do this via different methods depending on your platform. You can install it as an extension in Visual Studio Code, or you can install it via the command line using pip if you prefer.
+
+<img src="https://github.com/Roey0204/ESP32-Wireless-Connection/blob/main/ESP-NOW%20pairing/img/platformio.png">
   
 - Open Repo Project: Open your preferred code editor (e.g., Visual Studio Code) and navigate to your existing project directory.
 
