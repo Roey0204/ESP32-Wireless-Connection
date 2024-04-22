@@ -21,4 +21,12 @@ Moreover, the repository integrates the Network Time Protocol (NTP), a fundament
 
 Network Time Protocol (NTP): NTP facilitates the synchronization of clocks across networked devices, ensuring temporal accuracy crucial for various applications. By leveraging NTP, the repository captures real-time data with precision, enhancing the reliability and utility of the paired ESP-NOW communication framework.
 
+### How to setup
+
+- Install PlatformIO: First, you need to install PlatformIO. You can do this via different methods depending on your platform. You can install it as an extension in Visual Studio Code, or you can install it via the command line using pip if you prefer.
+  
+- Open Repo Project: Open your preferred code editor (e.g., Visual Studio Code) and navigate to your existing project directory.
+
+- Compile the code
+
 
