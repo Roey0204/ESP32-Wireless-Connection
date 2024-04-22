@@ -2,7 +2,7 @@
 
 This repository showcases the capabilities of ESP-NOW by facilitating the pairing of two devices, designated as Master and Slave. Additionally, it integrates the Network Time Protocol (NTP) to accurately capture real-time data.
 
-### ESP-NOW:
+### ESP-NOW
 
 <img src="https://github.com/Roey0204/ESP32-Wireless-Connection/blob/main/ESP-NOW%20pairing/img/esp-now.PNG">
 
@@ -16,7 +16,7 @@ ESP-NOW, a proprietary communication protocol developed by Espressif Systems for
   
 - [For details can refer to this link ](https://www.espressif.com/en/solutions/low-power-solutions/esp-now) 
 
-#### Network Time Protocol (NTP)
+### Network Time Protocol (NTP)
 Moreover, the repository integrates the Network Time Protocol (NTP), a fundamental aspect of modern networking:
 
 Network Time Protocol (NTP): NTP facilitates the synchronization of clocks across networked devices, ensuring temporal accuracy crucial for various applications. By leveraging NTP, the repository captures real-time data with precision, enhancing the reliability and utility of the paired ESP-NOW communication framework.
